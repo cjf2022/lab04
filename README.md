@@ -43,7 +43,7 @@
     <hr>
     <footer>
         <p>©2021</p>
-        <p><a href=https://github.com/cjf2022>CJ,</a>Wanda,<a href=https://github.com/Joey393d>Joey</a></p>
+        CJ, Wanda,Joey
         <p>319-YOU-SUCK</p>
         <p>123 Sucker Ave, Hershey,PA</p>
         <p>Cash Only</p>
